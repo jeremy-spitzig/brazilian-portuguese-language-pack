@@ -1,0 +1,6 @@
+{
+  "languageCodes":["pt_BR"],
+  "availableVerbsFile":"verbs.json",
+  "modelsFolder":"models",
+  "templatesFolder":"templates"
+}
